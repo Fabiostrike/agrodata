@@ -1,1 +1,2 @@
-data,estacao,id_cultura,area_m2,inseticida_L,bactericida_L,fungicida_L,npk_kg,agua_L
+data,estacao,cultura,area,inseticida,bactericida,fungicida,npk,agua
+2025-04-23,Outono,milho,257.0,0.06425,0.03084,0.04626,0.4454666666666666,1079.4
